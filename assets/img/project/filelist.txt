@@ -1,0 +1,97 @@
+P:\Portfolio\pughal\assets\img\project\amazon_aws-ar21.svg
+P:\Portfolio\pughal\assets\img\project\Anaconda.svg
+P:\Portfolio\pughal\assets\img\project\Angular.svg
+P:\Portfolio\pughal\assets\img\project\Apache Airflow.svg
+P:\Portfolio\pughal\assets\img\project\Apache Kafka.svg
+P:\Portfolio\pughal\assets\img\project\Apache Spark.svg
+P:\Portfolio\pughal\assets\img\project\atlassian_jira-ar21.svg
+P:\Portfolio\pughal\assets\img\project\Azure SQL Database.svg
+P:\Portfolio\pughal\assets\img\project\Azure.svg
+P:\Portfolio\pughal\assets\img\project\Bash.svg
+P:\Portfolio\pughal\assets\img\project\beyondcompare.png
+P:\Portfolio\pughal\assets\img\project\Bootstrap.svg
+P:\Portfolio\pughal\assets\img\project\C# (CSharp).svg
+P:\Portfolio\pughal\assets\img\project\c-sharp-c-seeklogo.com.svg
+P:\Portfolio\pughal\assets\img\project\CSS3.svg
+P:\Portfolio\pughal\assets\img\project\Django REST.svg
+P:\Portfolio\pughal\assets\img\project\Django.svg
+P:\Portfolio\pughal\assets\img\project\docker-ar21.svg
+P:\Portfolio\pughal\assets\img\project\Docker.svg
+P:\Portfolio\pughal\assets\img\project\Elastic Beats.svg
+P:\Portfolio\pughal\assets\img\project\Elastic Search.svg
+P:\Portfolio\pughal\assets\img\project\Express.svg
+P:\Portfolio\pughal\assets\img\project\FastAPI.svg
+P:\Portfolio\pughal\assets\img\project\filelist.txt
+P:\Portfolio\pughal\assets\img\project\FileZilla.svg
+P:\Portfolio\pughal\assets\img\project\firebase-1.svg
+P:\Portfolio\pughal\assets\img\project\Flask.svg
+P:\Portfolio\pughal\assets\img\project\getpostman-ar21.svg
+P:\Portfolio\pughal\assets\img\project\git.svg
+P:\Portfolio\pughal\assets\img\project\GitHub.svg
+P:\Portfolio\pughal\assets\img\project\Google Cloud.svg
+P:\Portfolio\pughal\assets\img\project\Grafana.svg
+P:\Portfolio\pughal\assets\img\project\Helm.svg
+P:\Portfolio\pughal\assets\img\project\HTML5.svg
+P:\Portfolio\pughal\assets\img\project\Insomnia.svg
+P:\Portfolio\pughal\assets\img\project\java.svg
+P:\Portfolio\pughal\assets\img\project\JavaScript.svg
+P:\Portfolio\pughal\assets\img\project\Jenkins.svg
+P:\Portfolio\pughal\assets\img\project\Jira.svg
+P:\Portfolio\pughal\assets\img\project\jQuery.svg
+P:\Portfolio\pughal\assets\img\project\JSON.svg
+P:\Portfolio\pughal\assets\img\project\Jupyter.svg
+P:\Portfolio\pughal\assets\img\project\Kaggle.svg
+P:\Portfolio\pughal\assets\img\project\Keras.svg
+P:\Portfolio\pughal\assets\img\project\Kibana.svg
+P:\Portfolio\pughal\assets\img\project\Kubernetes.svg
+P:\Portfolio\pughal\assets\img\project\Linux.svg
+P:\Portfolio\pughal\assets\img\project\logo-javascript.svg
+P:\Portfolio\pughal\assets\img\project\Logstash.svg
+P:\Portfolio\pughal\assets\img\project\Markdown.svg
+P:\Portfolio\pughal\assets\img\project\Matplotlib.svg
+P:\Portfolio\pughal\assets\img\project\Microsoft SQL Server.svg
+P:\Portfolio\pughal\assets\img\project\mongodb-icon-1.svg
+P:\Portfolio\pughal\assets\img\project\MongoDB.svg
+P:\Portfolio\pughal\assets\img\project\MySQL.svg
+P:\Portfolio\pughal\assets\img\project\NET core.svg
+P:\Portfolio\pughal\assets\img\project\NGINX.svg
+P:\Portfolio\pughal\assets\img\project\Node.js.svg
+P:\Portfolio\pughal\assets\img\project\Nodemon.svg
+P:\Portfolio\pughal\assets\img\project\NPM.svg
+P:\Portfolio\pughal\assets\img\project\NuGet.svg
+P:\Portfolio\pughal\assets\img\project\NumPy.svg
+P:\Portfolio\pughal\assets\img\project\OpenCV.svg
+P:\Portfolio\pughal\assets\img\project\OpenTelemetry.svg
+P:\Portfolio\pughal\assets\img\project\Ploty.svg
+P:\Portfolio\pughal\assets\img\project\PostgresSQL.svg
+P:\Portfolio\pughal\assets\img\project\Postman.svg
+P:\Portfolio\pughal\assets\img\project\Powershell.svg
+P:\Portfolio\pughal\assets\img\project\Prometheus.svg
+P:\Portfolio\pughal\assets\img\project\PuTTY.svg
+P:\Portfolio\pughal\assets\img\project\PyCharm.svg
+P:\Portfolio\pughal\assets\img\project\pytest.svg
+P:\Portfolio\pughal\assets\img\project\Python.svg
+P:\Portfolio\pughal\assets\img\project\PyTorch.svg
+P:\Portfolio\pughal\assets\img\project\R.svg
+P:\Portfolio\pughal\assets\img\project\RabbitMQ.svg
+P:\Portfolio\pughal\assets\img\project\rasa_logo.png
+P:\Portfolio\pughal\assets\img\project\React.svg
+P:\Portfolio\pughal\assets\img\project\Sass.svg
+P:\Portfolio\pughal\assets\img\project\scikit-learn.svg
+P:\Portfolio\pughal\assets\img\project\Slack.svg
+P:\Portfolio\pughal\assets\img\project\Socket.io.svg
+P:\Portfolio\pughal\assets\img\project\SonarQube.svg
+P:\Portfolio\pughal\assets\img\project\SQLAlchemy.svg
+P:\Portfolio\pughal\assets\img\project\SQLite.svg
+P:\Portfolio\pughal\assets\img\project\Streamlit.svg
+P:\Portfolio\pughal\assets\img\project\TensorFlow.svg
+P:\Portfolio\pughal\assets\img\project\typescript-seeklogo.com.svg
+P:\Portfolio\pughal\assets\img\project\TypeScript.svg
+P:\Portfolio\pughal\assets\img\project\Ubuntu.svg
+P:\Portfolio\pughal\assets\img\project\unity3d-ar21.svg
+P:\Portfolio\pughal\assets\img\project\Visual Studio Code (VS Code).svg
+P:\Portfolio\pughal\assets\img\project\Visual Studio.svg
+P:\Portfolio\pughal\assets\img\project\visual-studio-2013.svg
+P:\Portfolio\pughal\assets\img\project\visualstudio_code-ar21.svg
+P:\Portfolio\pughal\assets\img\project\XML.svg
+P:\Portfolio\pughal\assets\img\project\YAML.svg

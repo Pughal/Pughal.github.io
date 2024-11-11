@@ -1,0 +1,97 @@
+amazon_aws-ar21.svg 
+Anaconda.svg 
+Angular.svg 
+Apache Airflow.svg 
+Apache Kafka.svg 
+Apache Spark.svg 
+atlassian_jira-ar21.svg 
+Azure SQL Database.svg 
+Azure.svg 
+Bash.svg 
+beyondcompare.png 
+Bootstrap.svg 
+C# (CSharp).svg 
+c-sharp-c-seeklogo.com.svg 
+CSS3.svg 
+Django REST.svg 
+Django.svg 
+docker-ar21.svg 
+Docker.svg 
+Elastic Beats.svg 
+Elastic Search.svg 
+Express.svg 
+FastAPI.svg 
+filelist.txt 
+FileZilla.svg 
+firebase-1.svg 
+Flask.svg 
+getpostman-ar21.svg 
+git.svg 
+GitHub.svg 
+Google Cloud.svg 
+Grafana.svg 
+Helm.svg 
+HTML5.svg 
+Insomnia.svg 
+java.svg 
+JavaScript.svg 
+Jenkins.svg 
+Jira.svg 
+jQuery.svg 
+JSON.svg 
+Jupyter.svg 
+Kaggle.svg 
+Keras.svg 
+Kibana.svg 
+Kubernetes.svg 
+Linux.svg 
+logo-javascript.svg 
+Logstash.svg 
+Markdown.svg 
+Matplotlib.svg 
+Microsoft SQL Server.svg 
+mongodb-icon-1.svg 
+MongoDB.svg 
+MySQL.svg 
+NET core.svg 
+NGINX.svg 
+Node.js.svg 
+Nodemon.svg 
+NPM.svg 
+NuGet.svg 
+NumPy.svg 
+OpenCV.svg 
+OpenTelemetry.svg 
+Ploty.svg 
+PostgresSQL.svg 
+Postman.svg 
+Powershell.svg 
+Prometheus.svg 
+PuTTY.svg 
+PyCharm.svg 
+pytest.svg 
+Python.svg 
+PyTorch.svg 
+R.svg 
+RabbitMQ.svg 
+rasa_logo.png 
+React.svg 
+Sass.svg 
+scikit-learn.svg 
+Slack.svg 
+Socket.io.svg 
+SonarQube.svg 
+SQLAlchemy.svg 
+SQLite.svg 
+Streamlit.svg 
+TensorFlow.svg 
+typescript-seeklogo.com.svg 
+TypeScript.svg 
+Ubuntu.svg 
+unity3d-ar21.svg 
+Visual Studio Code (VS Code).svg 
+Visual Studio.svg 
+visual-studio-2013.svg 
+visualstudio_code-ar21.svg 
+XML.svg 
+YAML.svg 
